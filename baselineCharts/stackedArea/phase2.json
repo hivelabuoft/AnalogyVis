@@ -1,0 +1,62 @@
+[
+  {
+    "Year": 1974,
+    "Site": "A",
+    "Organic Layer": 7,
+    "Topsoil": 19,  
+    "Eluviation": 15,
+    "Subsoil": 28,  
+    "Parent Material": 12,  
+    "Bedrock": 40
+  },
+  {
+    "Year": 1984,
+    "Site": "A",
+    "Organic Layer": 4,  
+    "Topsoil": 18,
+    "Eluviation": 18,  
+    "Subsoil": 22,  
+    "Parent Material": 15,
+    "Bedrock": 45  
+  },
+  {
+    "Year": 1994,
+    "Site": "A",
+    "Organic Layer": 6,  
+    "Topsoil": 22,
+    "Eluviation": 19,  
+    "Subsoil": 30,  
+    "Parent Material": 12,
+    "Bedrock": 36  
+  },
+  {
+    "Year": 2004,
+    "Site": "A",
+    "Organic Layer": 5,  
+    "Topsoil": 13,  
+    "Eluviation": 21,  
+    "Subsoil": 33,  
+    "Parent Material": 20,
+    "Bedrock": 34  
+  },
+  {
+    "Year": 2014,
+    "Site": "A",
+    "Organic Layer": 3,  
+    "Topsoil": 16,  
+    "Eluviation": 22,
+    "Subsoil": 22,  
+    "Parent Material": 16,  
+    "Bedrock": 41  
+  },
+  {
+    "Year": 2024,
+    "Site": "A",
+    "Organic Layer": 2,  
+    "Topsoil": 14,  
+    "Eluviation": 24,  
+    "Subsoil": 18,  
+    "Parent Material": 12, 
+    "Bedrock": 46 
+  }
+]

@@ -117,13 +117,13 @@ For example, below is one of the question for Waterfall Chart:
 }
 ```
 
-#### `QualtricsSurvey.pdf`
-- PDF format
-- Qualtrics Survey Exported Questions and Charts
+#### `QualtricsSurvey.zip`
+- Contines Qualtrics survey files in PDF format
 
 #### `Study Question Details.qsf`
 - QSF format
 - For importing into Qualtrics
+- Qualtrics Survey Exported Questions and Charts
 
 
 

@@ -117,9 +117,6 @@ For example, below is one of the question for Waterfall Chart:
 }
 ```
 
-#### `QualtricsSurvey.zip`
-- Contines Qualtrics survey files in PDF format
-
 #### `Study Question Details.qsf`
 - QSF format
 - For importing into Qualtrics

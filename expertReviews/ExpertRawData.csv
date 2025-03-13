@@ -1,0 +1,101 @@
+Timestamp,"Consent to Share Feedback
+
+May we share your anonymized feedback in reports or publications?",Name,Institution,Role,"Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)","Representation of Data Attribute
+
+Does the analogy effectively capture the data attributes shown in the original chart?",Comments (Optional),"Visual Representation
+
+Does the analogy capture the chart’s visual structure?",Comments (Optional),"Analysis Potential
+
+Does the analogy enable meaningful analysis for novice learners?",Comments (Optional),"Scalability
+
+Can the analogy visualization achieve equivalent scalability with complex data as the original chart?",Comments (Optional),"Suggestions for Improvement
+
+Do you have any other suggestions to enhance the analogy (Optional)"
+11/24/2024 22:06:19,Yes,Patrick Lee,University of Toronto,Graduate Students,5,,5,,5,,5,,,5,,5,,5,,5,,,5,,5,,5,,5,,,5,,5,,5,,5,,,5,,5,,5,,5,,,5,,5,,5,,5,,,5,,5,,5,,5,,,5,,5,,5,,5,,,5,,5,,5,,5,,
+12/8/2024 22:26:45,Yes,Emily Wall,Emory University,Faculty,4,,5,,5,,5,Only real qualitative difference is labeling the heights of individual buildings in the analogically visualization rather than relying on the tick marks on the y-axis.,,5,,5,,5,,5,,,5,,5,,5,Does the analogy maintain geographic fidelity of the neighborhoods? That could be problematic with this example for odd-shaped locales.,2,,,5,,5,,5,,5,,,5,,5,The analogical version is actually more detailed with individual data values.,5,,5,,,3,,5,,5,Eyeballing the sizes of stars vs. a simpler shape like a circle is harder to ascertain,4,,,5,,5,,5,,5,,,5,,5,I question the veracity of the visualizations -- what screws actually stick out of the wall that much?,3,,5,,,5,,5,,5,,5,,
+12/9/2024 10:31:28,Yes,Jillian Aurisano,University of Cincinnati,Faculty,5,,4,No y-axis label in the bar chart.  No horizontal guidelines in bar chart.  ,5,,1,"The analogy is more complex and busy, which would hinder scaling up to more buildings.  Buildings widths can't be easily changed, so you need more horizontal space as the number of represented buildings increases.  If buildings have disparate heights- very tall and very short- you would need to have more vertical space.  ",,5,,3,Missing y-axis which would allow the viewer to identify the height at every moment for Mario.  ,5,,1,"Complex and busy, so difficult to scale up to more time points.  ",,4,,4,,3,"Although these visualizations are similar in structure, directly associating a treemap to a city map may mislead the viewer.  In physical maps, areas of land are next to each other at all times.  Treemaps are abstract showing hierarchical data.  So, 2 schools that are on different sides of the city, could be classified as school/city property, and depicted within the same area on the tree map.  This analogy may lead to confusion about how treemaps work.  ",4,,"Although these visualizations are similar in structure, directly associating a treemap to a city map may mislead the viewer.  In physical maps, areas of land are next to each other at all times.  Treemaps are abstract showing hierarchical data.  So, 2 schools that are on different sides of the city, could be classified as school/city property, and depicted within the same area on the tree map.  This analogy may lead to confusion about how treemaps work.  ",5,,3,Why is the x axis scale is not consistent in the analogy. ,4,,4,,,5,,5,,5,,3,,It would be better if the grader held a equivalent sized 'book' vs 1 sheet of paper.  ,4,,5,,3,,4,,,5,,5,,5,,5,,,5,,5,,3,"I am not sure why you would have depth in the well as negative.  This kind of representation is best for data with true positive/negative characteristics (sales vs expenses, job gains vs losses).  It is misleading this example- an increase in sales may not correspond directly with changes in expenses, but here the nail depth vs exposure is directly linked).  ",4,,,2,I don't believe you would have individuals seated in the inner areas?   ,5,,2,"Concerned that people may think the following: ""Some people are categorized 'science' (and only 'science').  Others are categorized 'science:biology'.  Others are categorized 'science:biology:medical science'.  But this is not how sunburst plots work.  ",4,,Putting people in the inner layers of the sunburst plot may mislead. 
+12/12/2024 21:21:17,Yes,Yalong Yang,GaTech,Faculty,4,"Overall, the height automatically catches my primary attention, which matches what a bar chart wants to communicate. However, the other visual attributes sometimes can be a bit distracting, like the width of the building, different shapes, and different ""decorative"" elements.",4,"Overall, yes, but again, some buildings have ""sharp"" tops, which makes a bit hard to tell should these ""sharp"" tops counted towards their intended values.",3,"I am a bit worried about if the novice learners can misinterpret the data. For example, some buildings have consistent height, while others have varied shapes. People may interpret such differences have some information to communicate. Or just arbitrarily decide the meanings (e.g., which top represents the data top). Also, not sure if those sharp tops give people some biased visual perception to be higher?",4,"Should not have a big problem if for communication purposes. Usually not big data. However, the additional decorative elements do take screen spaces and pixels.",,5,"Compared to the previous one, this one is less ambiguous, can easily read the values, and seems to be appropriately proportional. ",4,"The size of the ""person"" seems to keep changing, start to wonder why this is the case. Taking a closer look at the ladders, they also seem to be in different sizes. The colors are used to encode + and -, however, different culture has different semantic meanings, i.e., red can mean + for some countries, and - for other ones.",4,"The data encoding aspect seems to be good. However, without a labeled/ticked Y axis, doing far-away comparisons seems to be challenging. The charts do not feel super accurately scaled.",5,It is almost identical to the abstract visualization. ,,2,"It depends on what the charts want to communicate. I feel the analogy has additional data encoded, and this may not be a good thing, as it can bias how people interpret the raw data. Of course, if this is somehow intended, then can be beneficial. However, this should probably also be represented in the abstract treemap as well.",5,This seems to be quite consistent. ,2,"Because the potential bias introduced by the data encoding, I am worried about the analysis can also be biased. ",4,"Overall, should be good. However, having deeper and more complex hierarchies will be more challenging.",,5,"I believe the data matches quite well, with slight differences in smoothness of the slopes. ",5,Similar to the previous answer. It is definitely more engaging.,5,I do not feel any additional confusion introduced by the analogy.,5,Do not anticipate issues.,,5,"The overall shape matches the original abstract visualization. The analogy presents additional details, which can be a bit distracting, particularly when they are not ordered. I am not worried about the 3D effect; it is OK here.",5,,4,The additional level of detail can distract the analysis if not relevant. ,5,,,2,The size and brightness of the star is somehow more challenging to read. It does not seem to be a double-encoding? ,3,The spatial impression of a sky may not match a scatterplot. We need to look up to the sky.,2,"Due to the data, it feels like people may have issues analyzing the data presented in the sky.",5,Scalability does not seem to be an issue here.,,4,"The color encoding is consistently used. However, the densify of each cell varies. If this is not the intention, it can be confusing. People may build false correlations.",2,"Some of items (boxes and bottles) are identical, hard to use this information to infer the location, then it loses the meaning of using analogy. ",2,"Novice may be attracted by the real-world objects, and miss reading the colors. ",3,Using meaningful representative commodities can be more and more challenging with more rooms.,,2,"The screw feels very ""directional"", while original two-sided bar chart is not. If this is the intention for this specific context, I guess it can also be OK. However, this is not a good replacement.",3,"The screw's head and tail visually feel very different. I do not feel this is useful visual representation. It looks visually attractive, but feels ""chart junk"" to certain degree.",2,"Due to data representation/interpretation issues, I am worried the analysis use.",4,"In any case, scalability should not be a big issue here.",,4,"At first glance, I thought this is great! However, I then started to think do these people have hierarchies between them?",4,"Same to the previous answer, if it is not the case, there is a misalignment with the visual representation and semantic meaning.",3,"From part-to-whole relationship, it looks good. From hierarchical relationship, it is hard to understand, internal circles have less people, and they are the higher level of outside circles? ",5,,
+12/13/2024 17:12:27,Yes,Alark Joshi,University of San Francisco,Faculty,5,,4,,3,,3,"As the dataset gets bigger, I fear that the analogy may not scale elegantly. ",,5,,4,,2,Not sure if a novice can perform analysis on the analogy representation,2,"Again, I am not sure if this representation scales with large, real-world datasets ",,5,,5,,5,This only works with overlays and annotations on the analogy,5,"Scales well with large datasets, but needs overlays and annotations ",,5,,4,,4,,3,"Similar to treemaps, this works with annotations and overlays. There is a limit for how many layers can be shown though.",,5,It does a great job of conveying how histograms are generated. Great for novices! ,5,,4,,4,You may run into some problems if the bin widths are too wide and each histogram bin has a large number of items in it. ,,3,,3,,2,The size of each bubble is not captured appropriately in the analogy (star representation),2,,,5,,4,It is more engaging the original visualization ,4,,4,This would work for medium-sized datasets ,,5,,5,,3,It depends on the color choices and how easy it is to read the analogy chart,4,It may get busy with larger data. ,"I am concerned that this analogy works for the example selected, but may not work for other situations such as an age pyramid (which is a common use of this type of chart). ",5,,5,,4,,4,"If the overlaid annotations are legible as the size of the data increases, then it could definitely be used for large datasets. ",
+12/18/2024 21:58:19,Yes,Lane Harrison,WPI,Faculty,5,I think it works because of the alignment in the data and the actual analogy,4,Width varies between buildings but not in the charts,3,"I think many important bar charts are of more abstract things, for example “insurance claims”, that are harder to analogize in this way.",2,No— I think the alignment is pretty required for this one.,,2,"I don’t think so. I played this game, and I don’t think I ever cared about the units of height. I can guess that the chart does apply here, but the units themselves don’t really seem to matter.",4,,3,Well— if used for **teaching**. I suppose you might make a fair argument that units can be arbitrary. How it is introduced or framed may matter a lot.,3,"I was between a 3 and a 4. I think for the up/down bar charts along an arbitrary scale, it works pretty well. I would worry about the analogy itself with large data swings— how scalable is it w.r.t. size of data jumps and variability?",,4,,4,,3,"While this specific data and chart match up well, I’m a little worried about geographic data as it often does not make such neat squares and rectangles. Maybe this is a stepping stone?",3,Similar to the above— I think complexity and analysis potential are linked in this case.,"Sub-grids with more variability, perhaps?",4,,4,,4,"Mostly— my worry here is that it looks like a single landscape when in fact it should be a landscape over time. That’s kind of a problem with both charts, though, and not straightforward to fix.",4,For data with similar size and complexity it should do well.,,4,"It takes a bit to parse, but it does decently well. Stacks!",4,,3,"I could imagine cleaner examples— don’t early grades sometimes use similar styles of charts, but for counting? I might build histograms on that familiar form. I think this specific design is pretty effective, though.",4,,,4,,4,,4,"Yes, it’s a pretty direct mapping here.",4,Scatterplots scale pretty well! Stylized ones like the analogy will likely break sooner (e.g. no opacity option). But this still seems to scale better than most charts would.,,4,,4,"Again, it took me a minute. I think this might be AI? One thing AI does sometimes is add so much detail that it takes you a few seconds to parse what’s going on. 
+
+That said, I think this analogy is pretty solid. It conveys the room types fairly well visually, which helps contextualize the color overlay.",4,,4,,,4,,4,,4,"Well, showing the screw types here can help someone reason about the “why” behind the chart. That can be powerful. ",4,I think it would work for different screw types in general.,,4,,4,"Once again, when the analogy is aligned directly with the data represented, I think you get some interpretability boosts.",4,,4,"Sunbursts are pretty flexible, as is the hall divisions idea.",

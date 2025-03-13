@@ -23,7 +23,7 @@ For more analogy charts, visit our website: [Visualization Analogies](https://vi
 ---
 
 ### 2️⃣ `baselineCharts/`
-- Contains **detailed JSON files** and **D3.js code** for the creation of baseline charts.
+- Contains **detailed JSON files** for chart creation dataset and **D3.js code** for the creation of baseline charts.
 
 ---
 
@@ -61,10 +61,69 @@ Due to file size limitations, download and unzip `selectedSketches.zip` to acces
 - Contains **de-identified transcriptions** of think-aloud audio data.
 - Each CSV file corresponds to a chart used in the study.
 
+
+
+### 5️⃣ `expertReviews/`
+# 📝 Expert Reviews Data
+
+This folder contains data related to expert reviews conducted as part of our study. The expert evaluations focus on assessing candidate visualizations based on predefined design criteria.
+
+
+## 📁 Files in This Folder
+
+#### `expertRawData.csv`
+- Contains the **raw data** of expert reviews.
+- Includes expert comments on **each of the four design criteria** for all **10 candidate charts**.
+
+#### `expertSummary.csv`
+- Summarizes expert feedback on which charts require **modifications** or **refinements**.
+- Includes **reasons** provided by experts for suggested changes.
+
+#### `expertEvaluationCriteria.pdf`
+- Contains the **rubric** used by experts to rate visualizations.
+- Ratings are based on a **scale from 1 to 5**.
+
 ---
 
-### 5️⃣ `surveyQuestions/`
-Includes the **rubric and study questions** from Qualtrics, available in both:
-- **PDF format**
-- **QSF format** (for importing into Qualtrics)
+### 6️⃣ `surveyQuestions/`
+Includes the **question solutions, grading rubric and study questions** from Qualtrics, available in both:
+
+## 📁 Files in This Folder
+
+#### `ProblemsAndRubric/`
+- Solution for the study questions
+- Rubric for the study questions (each out of 5)
+- The folder contains .md files to each of the chart type. Each chart type is a json file in the format of Question Category, Question body, Detailed Rubric. 
+For example, below is one of the question for Waterfall Chart: 
+```
+{
+      "Category": "Summary",
+      "Question": [
+        "What do you think this chart is about? Can you describe what each section represents?",
+        "What overall pattern or strategy do you notice in the character's journey through this chart?"
+      ],
+      "Answer": [
+        "The chart is a depiction of a video game level. Each section or icon shows different events: Starting Point, Mushroom Boost, Goomba Attack, Coin Bonus, and Piranha Plant obstacle.",
+        "The pattern shows that the character gains points from bonuses and loses points from obstacles. The strategy involves balancing the positive and negative impacts to reach the highest score."
+      ],
+      "Detailed Rubric": {
+        "0": "No response or completely off-topic. The student fails to mention any of the key events or the overall strategy.",
+        "1": "Partial identification of the chart's theme. The student may mention one event or provide a very vague description of the chart with no clear strategy.",
+        "2": "Basic understanding with at least two correct event identifications. The response shows minimal detail and does not adequately explain the overall pattern or strategy.",
+        "3": "Correctly identifies the main theme and at least three events. The student provides a basic explanation of the overall pattern but lacks depth or insight into the strategy.",
+        "4": "Provides a comprehensive description of all main events and general purpose. The student explains most events clearly and outlines the balance between positive and negative impacts, though some details might be missing.",
+        "5": "Thorough explanation including all events (Starting Point, Mushroom Boost, Goomba Attack, Coin Bonus, and Piranha Plant obstacle) along with insightful observations about the strategy and pattern. The response is detailed and demonstrates full understanding of the chart."
+      }
+}
+```
+
+#### `QualtricsSurvey.pdf`
+- PDF format
+- Qualtrics Survey Exported Questions and Charts
+
+#### `Study Question Details.qsf`
+- QSF format
+- For importing into Qualtrics
+
+
 

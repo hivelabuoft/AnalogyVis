@@ -90,6 +90,19 @@ Includes the **question solutions, grading rubric and study questions** from Qua
 
 ## 📁 Files in This Folder
 
+#### `Sketch_Interface/`
+This folder contains JavaScript scripts for integrating a **custom sketching interface** into Qualtrics' **Signature Question** type. The interface allows participants to draw directly on charts as part of the study.
+
+##### 🎥 Demo:
+Watch a demonstration of the sketching interface in action:  
+[![Sketch Interface Demo](https://img.youtube.com/vi/TUkIpmxd2Is/0.jpg)](https://youtu.be/TUkIpmxd2Is)
+
+##### 🛠️ How to Use:
+1. Upload the necessary JavaScript files into **Qualtrics' "Look & Feel" > "Custom JavaScript"** section.
+2. Set the **Signature Question** to accept sketch input.
+3. Link the appropriate script to the specific chart question.
+4. Ensure Qualtrics settings allow participants to submit drawings along with responses.
+
 #### `ProblemsAndRubric/`
 - Solution for the study questions
 - Rubric for the study questions (each out of 5)
